@@ -1,4 +1,10 @@
 # Computer Vision - The Street View House Numbers
+The current repository contains a common task within the scope of Computer Vision field: Image Detection. Other similar projects can be found in the following repositories:
+
+- [Fashion MNIST](https://github.com/UribeAlejandro/ComputerVision_FashionMNIST)
+- [CIFAR10](https://github.com/UribeAlejandro/ComputerVision_CIFAR10)
+- [Cats vs Dogs](https://github.com/UribeAlejandro/ComputerVision_Cats_vs_Dogs)
+- [Rock Paper &amp; Scissors](https://github.com/UribeAlejandro/ComputerVision_Rock_Paper_or_Scissors)
 ## Acknowledgements
 This hands-on experience with Computer Vision common projects was inspired by TensorFlow 2 for Deep Learning by Dr Kevin Webster - Coursera and the concepts explained in Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow by Aureélien Géron - O'Reily.
 
