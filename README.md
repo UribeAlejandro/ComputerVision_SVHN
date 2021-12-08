@@ -1,6 +1,7 @@
 # Computer Vision - The Street View House Numbers
 The current repository contains a common task within the scope of Computer Vision field: Image Detection. Other similar projects can be found in the following repositories:
 
+- [MNIST](https://github.com/UribeAlejandro/ComputerVision_MNIST)
 - [Fashion MNIST](https://github.com/UribeAlejandro/ComputerVision_FashionMNIST)
 - [CIFAR10](https://github.com/UribeAlejandro/ComputerVision_CIFAR10)
 - [Cats vs Dogs](https://github.com/UribeAlejandro/ComputerVision_Cats_vs_Dogs)
@@ -11,7 +12,7 @@ This hands-on experience with Computer Vision common projects was inspired by Te
 Sections of code were taken from both sources stated above.  
 All the datasets used along this notebook are open sourced.
 ## About the Dataset
-[SVHN](http://ufldl.stanford.edu/housenumbers/) is a real-world image dataset for developing machine learning and object recognition algorithms with minimal requirement on data preprocessing and formatting. It can be seen as similar in flavor to [MNIST](https://github.com/UribeAlejandro/ComputerVision_MNIST), but incorporates an order of magnitude more labeled data (over 600,000 digit images) and comes from a significantly harder, unsolved, real world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images.
+[SVHN](http://ufldl.stanford.edu/housenumbers/) is a real-world image dataset for developing machine learning and object recognition algorithms with minimal requirement on data preprocessing and formatting. It can be seen as similar in flavor to [MNIST](http://yann.lecun.com/exdb/mnist/), but incorporates an order of magnitude more labeled data (over 600,000 digit images) and comes from a significantly harder, unsolved, real world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images.
 
 Examples are shown below:
 
